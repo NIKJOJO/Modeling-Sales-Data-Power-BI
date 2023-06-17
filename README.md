@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to my **Modeling Data** report, where I utilize Power BI to clean, transform, and visualize sales data in order to answer key business questions. In this project, I leverage the power of Power BI and Power Query to gain insights from the data.
+Welcome to my **Super Store** report, where I utilize Power BI to clean, transform, and visualize sales data in order to answer key business questions. In this project, I leverage the power of Power BI and Power Query to gain insights from the data.
 
 ## Ask
 
@@ -90,4 +90,4 @@ Based on the visualizations and analysis, we can provide answers to the original
 
 ## Conclusion
 
-In conclusion, this **Modeling Data** report showcases the effective utilization of Power BI and Power Query to clean, transform, and visualize sales data, enabling us to answer key business questions and gain valuable insights. The visualizations and interactive features provided a comprehensive view of sales trends, customer behavior, and profitability, empowering stakeholders to make data-driven decisions, optimize strategies, and drive business growth.
+In conclusion, this **Super Store** report showcases the effective utilization of Power BI and Power Query to clean, transform, and visualize sales data, enabling us to answer key business questions and gain valuable insights. The visualizations and interactive features provided a comprehensive view of sales trends, customer behavior, and profitability, empowering stakeholders to make data-driven decisions, optimize strategies, and drive business growth.
