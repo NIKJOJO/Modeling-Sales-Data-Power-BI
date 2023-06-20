@@ -1,5 +1,4 @@
-
-# Modeling-Sales-Data-Power-BI
+# Modeling Sales Data using Power BI
 
 ## Introduction
 
